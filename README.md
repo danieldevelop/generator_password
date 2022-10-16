@@ -14,3 +14,11 @@ Generador de contraseña automatica, recomendando constraseñas segura para el u
 ## Recusos
 
 - [Eclipse IDE](https://www.eclipse.org/downloads/) - Entorno de Desarrollo Integrado
+
+
+## Como Empezar
+
+1. Clonar este repositorio git clone https://github.com/danieldevelop/generator_password.git
+2. Haga doble click generator_password_exe.jar, que se encuentra dentro del directorio dist
+    - Nota: para que esto tiene que tenes instalado JDK version 8 o superior
+3. ¡Listo!
